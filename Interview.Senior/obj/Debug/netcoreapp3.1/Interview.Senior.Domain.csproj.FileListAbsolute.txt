@@ -1,0 +1,9 @@
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\bin\Debug\netcoreapp3.1\Interview.Senior.Domain.deps.json
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\bin\Debug\netcoreapp3.1\Interview.Senior.Domain.dll
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\bin\Debug\netcoreapp3.1\Interview.Senior.Domain.pdb
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\obj\Debug\netcoreapp3.1\Interview.Senior.Domain.csprojAssemblyReference.cache
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\obj\Debug\netcoreapp3.1\Interview.Senior.Domain.AssemblyInfoInputs.cache
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\obj\Debug\netcoreapp3.1\Interview.Senior.Domain.AssemblyInfo.cs
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\obj\Debug\netcoreapp3.1\Interview.Senior.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\obj\Debug\netcoreapp3.1\Interview.Senior.Domain.dll
+C:\Users\gsuyama\source\repos\Interview\Interview.Senior\obj\Debug\netcoreapp3.1\Interview.Senior.Domain.pdb
