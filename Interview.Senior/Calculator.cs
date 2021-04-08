@@ -29,7 +29,7 @@ namespace Interview.Senior.Domain
 
         public int Multiplication(int num1, int num2)
         {
-            throw new NotImplementedException();
+            return num1 * num2;
         }
 
         public double CalculateFees(int num1, double feesPercentage)
@@ -46,5 +46,45 @@ namespace Interview.Senior.Domain
         {
             _context.Add(employee);
         }
+    }
+
+    public class EmployeeCalculator : IEmployeeCalculator
+    {
+        private readonly Context _context;
+
+        public EmployeeCalculator()
+        {
+            _context = new Context();
+        }
+
+        public void IncreaseSalary(Employee employee, double percentageToIncrease)
+        {
+            employee.Salary = employee.Salary + employee.Salary / 100 * percentageToIncrease;
+        }
+
+        public void AddEmployee(Employee employee)
+        {
+            _context.Add(employee);
+        }
+    }
+
+    public interface IEmployeeCalculator
+    {
+        void IncreaseSalary(Employee employee, double percentageToIncrease);
+
+        void AddEmployee(Employee employee);
+    }
+
+    public class FinantialCalculator : IFinantialCalculator
+    {
+        public double CalculateFees(int num1, double feesPercentage)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public interface IFinantialCalculator
+    {
+        double CalculateFees(int num1, double feesPercentage);
     }
 }

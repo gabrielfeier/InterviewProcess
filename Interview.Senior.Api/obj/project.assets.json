@@ -553,11 +553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior.Api\\Interview.Senior.Api.csproj",
+      "projectUniqueName": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior.Api\\Interview.Senior.Api.csproj",
       "projectName": "Interview.Senior.Api",
-      "projectPath": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior.Api\\Interview.Senior.Api.csproj",
+      "projectPath": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior.Api\\Interview.Senior.Api.csproj",
       "packagesPath": "C:\\Users\\gsuyama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior.Api\\obj\\",
+      "outputPath": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -580,8 +580,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\Interview.Senior.Domain.csproj": {
-              "projectPath": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\Interview.Senior.Domain.csproj"
+            "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\Interview.Senior.Domain.csproj": {
+              "projectPath": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\Interview.Senior.Domain.csproj"
             }
           }
         }

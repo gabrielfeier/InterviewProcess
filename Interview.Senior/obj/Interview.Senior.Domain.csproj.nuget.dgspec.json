@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\Interview.Senior.Domain.csproj": {}
+    "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\Interview.Senior.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\Interview.Senior.Domain.csproj": {
+    "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\Interview.Senior.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\Interview.Senior.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\Interview.Senior.Domain.csproj",
         "projectName": "Interview.Senior.Domain",
-        "projectPath": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\Interview.Senior.Domain.csproj",
+        "projectPath": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\Interview.Senior.Domain.csproj",
         "packagesPath": "C:\\Users\\gsuyama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsuyama\\source\\repos\\Interview\\Interview.Senior\\obj\\",
+        "outputPath": "C:\\Users\\gsuyama\\Desktop\\InterviewProcess\\Interview.Senior\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
